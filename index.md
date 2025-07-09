@@ -3,7 +3,7 @@ layout: home
 title: "Welcome"
 excerpt: "A blog about observability, cloud infrastructure, and time-series databases."
 ---
-
+<img src="assets/images/DK2025.JPG" alt="Welcome Banner" width="300" height="auto">
 👋 Welcome to **Dmitri's Blog** — where we dive deep into the world of observability, cloud-native tools, and modern monitoring stacks.
 
 🧭 Explore topics like:
