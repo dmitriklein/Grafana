@@ -3,7 +3,7 @@ description: >-
   Corporate production experience with Grafana by Dmitri K Klein.
 email: dmitri.klein@y7mail.com
 url: "https://your-username.github.io" # Replace with your GitHub Pages URL
-baseurl: "/blog" # Use "" if it's a user/organization site
+baseurl: "" # Use "" if it's a user/organization site
 
 # Theme and appearance
 remote_theme: mmistakes/minimal-mistakes
