@@ -8,8 +8,5 @@ excerpt: "A blog about observability, cloud infrastructure, and time-series data
 
 🧭 Explore topics like:
 - 📊 Grafana, Prometheus, and Loki
-- 🔍 Distributed tracing with OpenTelemetry
-- ☁️ AWS infrastructure and Kubernetes
-- 🧠 Time-series databases like InfluxDB and VictoriaMetrics
 
 Stay curious!
