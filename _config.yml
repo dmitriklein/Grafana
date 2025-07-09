@@ -1,7 +1,7 @@
-title: Dmitri's Blog
+title: Grafana In Corporate Production Environment
 description: >-
-  Exploring observability, cloud infrastructure, and time-series databases.
-email: your-email@example.com
+  Corporate production experience with Grafana by Dmitri K Klein.
+email: dmitri.klein@y7mail.com
 url: "https://your-username.github.io" # Replace with your GitHub Pages URL
 baseurl: "/blog" # Use "" if it's a user/organization site
 
@@ -13,14 +13,14 @@ lang: "en"
 
 # Author info
 author:
-  name: Dmitri
+  name: Dmitri K Klein
   avatar: "/assets/images/avatar.png"
-  bio: "Cloud-native observability enthusiast"
+  bio: "Cloud-native observability professional"
   location: "Colorado, USA"
   links:
     - label: "GitHub"
       icon: "fab fa-github"
-      url: "https://github.com/your-username"
+      url: "https://github.com/dmitriklein"
     - label: "Twitter"
       icon: "fab fa-twitter"
       url: "https://twitter.com/your-handle"
