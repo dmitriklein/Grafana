@@ -3,5 +3,5 @@ description: A blog about observability, cloud, and code
 author: Dmitri K Klein
 email: dmitri.klein@y7mail.com
 baseurl: "" # leave blank for user/organization site
-url: "https://dmitriklein.github.io/Grafana/"
+url: "https://dmitriklein.github.io"
 theme: minima
