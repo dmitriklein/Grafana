@@ -1,3 +1,4 @@
+<link rel="stylesheet" href="{{ '/assets/css/style.css' | https://github.com/dmitriklein/Grafana }}">
 ---
 layout: post
 title: "Why Grafana Matters"
