@@ -12,4 +12,4 @@ excerpt: "A blog about observability, cloud infrastructure, and time-series data
 - ☁️ AWS infrastructure and Kubernetes
 - 🧠 Time-series databases like InfluxDB and VictoriaMetrics
 
-Observation is the key to understanding..
+Observation is the key to understanding.
