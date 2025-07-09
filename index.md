@@ -1,6 +1,6 @@
 ---
 layout: home
-title: "Welcome to Dmitri's Blog"
+title: "Dmitri's Grafana"
 excerpt: "Exploring observability, cloud infrastructure, and time-series databases."
 ---
 
@@ -8,13 +8,13 @@ excerpt: "Exploring observability, cloud infrastructure, and time-series databas
 
 ## 👋 
 
-Welcome to **Dmitri K Klein's** — Blog, where I share my corporate production experience with Grafana:
+**Dmitri K Klein's** — Blog, where I share my corporate production experience with Grafana.
 
 - 📊 Grafana, Prometheus, and Loki
 - 🔍 Distributed tracing with OpenTelemetry
 - ☁️ AWS infrastructure and Kubernetes
 - 🧠 Time-series databases like InfluxDB and VictoriaMetrics
 
-> “You can’t fix what you can’t see.”
+> “Observation is the key to understanding.”
 
-Stay curious and keep exploring!
+Stay curious!
