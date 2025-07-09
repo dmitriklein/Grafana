@@ -1,3 +1,10 @@
-title: My Experience with Grafana (by Dmitri K Klein)
-description: A blog powered by GitHub Pages
+title: My Experience with Grafana
+description: A blog about observability, cloud, and code
+author: Dmitri K Klein
+email: dmitri.klein@y7mail.com
+baseurl: "" # leave blank for user/organization site
+url: "https://dmitriklein.github.io/Grafana/"
 theme: minima
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
