@@ -1,8 +1,8 @@
-title: Dmitri's Blog
+title: My Observability with Grafana by Dmitri K Klein
 description: >-
   Exploring observability, cloud infrastructure, and time-series databases.
-email: your-email@example.com
-url: "https://your-username.github.io" # Replace with your GitHub Pages URL
+email: dmitri.klein@y7mail.com
+url: "https://dmitriklein.github.io" # Replace with your GitHub Pages URL
 baseurl: "/blog" # Use "" if it's a user/organization site
 
 # Theme and appearance
@@ -13,9 +13,9 @@ lang: "en"
 
 # Author info
 author:
-  name: Dmitri
+  name: Dmitri K Klein
   avatar: "/assets/images/avatar.png"
-  bio: "Cloud-native observability enthusiast"
+  bio: "Cloud-native observability corporate professional"
   location: "Colorado, USA"
   links:
     - label: "GitHub"
