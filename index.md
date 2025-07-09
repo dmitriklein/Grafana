@@ -1,7 +1,7 @@
 ---
 layout: home
 title: "Welcome"
-excerpt: "A blog about observability, cloud infrastructure, and time-series databases."
+excerpt: "Corporate production experience with Grafana by Dmitri K Klein."
 ---
 
 👋 Welcome to **Dmitri's Blog** — where we dive deep into the world of observability, cloud-native tools, and modern monitoring stacks.
