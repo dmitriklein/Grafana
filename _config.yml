@@ -1,4 +1,4 @@
-title: Dmitri's Blog
+title: My Experience with Grafana
 description: >-
   Exploring observability, cloud infrastructure, and time-series databases.
 email: your-email@example.com
@@ -13,7 +13,7 @@ lang: "en"
 
 # Author info
 author:
-  name: Dmitri
+  name: Dmitri K Klein
   avatar: "/assets/images/avatar.png"
   bio: "Cloud-native observability enthusiast"
   location: "Colorado, USA"
