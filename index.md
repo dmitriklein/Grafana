@@ -1,6 +1,6 @@
 ---
 layout: home
-title: "Welcome"
+title: "Dmitri K Klein's Blog"
 excerpt: "A blog about observability, cloud infrastructure, and time-series databases."
 ---
 <img src="assets/images/DK2025.JPG" alt="Welcome Banner" width="300" height="auto">
