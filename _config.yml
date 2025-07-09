@@ -1,7 +1,54 @@
 title: My Experience with Grafana
-description: A blog about observability, cloud, and code
-author: Dmitri K Klein
+description: >-
+  Exploring observability, cloud infrastructure, and time-series databases.
 email: dmitri.klein@y7mail.com
-baseurl: "" # leave blank for user/organization site
-url: "https://dmitriklein.github.io"
-theme: minima
+url: "https://dmitriklein.github.io" # Replace with your GitHub Pages URL
+baseurl: "/blog" # Use "" if it's a user/organization site
+
+# Theme and appearance
+remote_theme: mmistakes/minimal-mistakes
+minimal_mistakes_skin: "aqua" # Options: default, dark, mint, sunrise, etc.
+locale: "en"
+lang: "en"
+
+# Author info
+author:
+  name: Dmitri
+  avatar: "/assets/images/avatar.png"
+  bio: "Cloud-native observability enthusiast"
+  location: "Colorado, USA"
+  links:
+    - label: "GitHub"
+      icon: "fab fa-github"
+      url: "https://github.com/dmitriklein"
+    - label: "Twitter"
+      icon: "fab fa-twitter"
+      url: "https://twitter.com/dmitriklein"
+
+# Plugins
+plugins:
+  - jekyll-paginate
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jemoji
+  - jekyll-sitemap
+  - jekyll-include-cache
+  - jekyll-remote-theme
+
+# Pagination
+paginate: 5
+paginate_path: "/page:num/"
+
+# Permalinks
+permalink: /:year/:month/:day/:title/
+
+# Markdown processor
+markdown: kramdown
+highlighter: rouge
+
+# Exclude from build
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - 
