@@ -52,3 +52,6 @@ exclude:
   - Gemfile.lock
   - node_modules
   - vendor
+# Custom Styles
+sass:
+  style: compressed
