@@ -4,11 +4,13 @@ title: "Welcome"
 excerpt: "A blog about observability, cloud infrastructure, and time-series databases."
 ---
 <img src="assets/images/DK2025.JPG" alt="Welcome Banner" width="300" height="auto">
-👋 **Blog of Dmitri K Klein**
+**Blog of Dmitri K Klein**
 
 *Observation is the key to understanding!*
 
-🧭 Explore topics like:
+**My R&D and corporate production experience with Grafana**
+
+🧭 Also explore topics like:
 - 📊 Grafana, Prometheus, and Loki
 - 🔍 Distributed tracing with OpenTelemetry
 - ☁️ AWS infrastructure and Kubernetes
