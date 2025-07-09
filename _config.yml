@@ -13,8 +13,7 @@ lang: "en"
 
 # Author info
 author:
-  name: Dmitri
-  avatar: "/assets/images/avatar.png"
+  name: Dmitri K Klein
   bio: "Cloud-native observability enthusiast"
   location: "Colorado, USA"
   links:
