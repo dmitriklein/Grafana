@@ -4,6 +4,8 @@ title: "Welcome to Dmitri's Blog"
 excerpt: "Exploring observability, cloud infrastructure, and time-series databases."
 ---
 
+<img src="assets/images/DK2025.JPG" alt="Welcome Banner" width="100" height="auto">
+
 ![Welcome Banner](assets/images/DK2025.JPG "Welcome to the Blog")
 
 ## 👋 
