@@ -1,7 +1,7 @@
-title: My Experience with Grafana
+title: Dmitri's Blog
 description: >-
   Exploring observability, cloud infrastructure, and time-series databases.
-email: dmitri.klein@y7mail.com
+email: your-email@example.com
 url: "https://dmitriklein.github.io" # Replace with your GitHub Pages URL
 baseurl: "/blog" # Use "" if it's a user/organization site
 
@@ -13,16 +13,17 @@ lang: "en"
 
 # Author info
 author:
-  name: Dmitri K Klein
+  name: Dmitri
+  avatar: "/assets/images/avatar.png"
   bio: "Cloud-native observability enthusiast"
   location: "Colorado, USA"
   links:
     - label: "GitHub"
       icon: "fab fa-github"
-      url: "https://github.com/dmitriklein"
+      url: "https://github.com/your-username"
     - label: "Twitter"
       icon: "fab fa-twitter"
-      url: "https://twitter.com/dmitriklein"
+      url: "https://twitter.com/your-handle"
 
 # Plugins
 plugins:
@@ -50,4 +51,5 @@ exclude:
   - Gemfile
   - Gemfile.lock
   - node_modules
-  - 
+  - vendor
+
