@@ -1,5 +1,5 @@
 ---
 layout: home
-title: Welcome
+title: Observability Solutions: Architecture, Design, Development
 ---
 
