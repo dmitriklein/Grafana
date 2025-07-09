@@ -1,3 +1,3 @@
-# Grafana
-My own Grafana software solutions, technologies, plugins, features, etc. developed and implemented in production.
+# My Grafana
+Life hacks, solutions, technologies, plugins, features, etc. developed and implemented in production.
 
