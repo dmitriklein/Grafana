@@ -55,3 +55,10 @@ exclude:
 # Custom Styles
 sass:
   style: compressed
+sass:
+  style: compressed
+
+# Optional: if not using a theme that auto-includes your CSS
+include:
+  - assets/css/style.scss
+
