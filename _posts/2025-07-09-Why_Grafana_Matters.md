@@ -1,3 +1,11 @@
+---
+layout: post
+title: "Why Grafana Matters"
+date: 2025-07-08
+categories: observability cloud
+tags: [grafana, opentelemetry, devops]
+---
+
 <link rel="stylesheet" href="{{ '/assets/css/style.css' | https://github.com/dmitriklein/Grafana }}">
 
   Why Grafana Matters
