@@ -6,10 +6,12 @@ excerpt: "A blog about observability, cloud infrastructure, and time-series data
 <img src="assets/images/DK2025.JPG" alt="Welcome Banner" width="300" height="auto">
 👋 **Dmitri K Klein's**
 
+*Observation is the key to understanding.*
+
 🧭 Explore topics like:
 - 📊 Grafana, Prometheus, and Loki
 - 🔍 Distributed tracing with OpenTelemetry
 - ☁️ AWS infrastructure and Kubernetes
 - 🧠 Time-series databases like InfluxDB and VictoriaMetrics
 
-Observation is the key to understanding.
+
