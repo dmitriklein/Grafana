@@ -1,4 +1,3 @@
-<link rel="stylesheet" href="https://github.com/dmitriklein/Grafana/blob/main/assets/css/style.scss">
 ---
 title: "Visualize Like a Pro: Getting Started with Grafana Dashboards"
 date: 2025-07-09
