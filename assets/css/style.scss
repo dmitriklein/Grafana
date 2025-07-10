@@ -1,24 +1,38 @@
 ---
 ---
-@import "{{ site.theme }}";
 
-.post-content {
-  font-family: 'Segoe UI', sans-serif;
-  line-height: 1.7;
+@import "{{ site.theme }}"; // Import default theme styles
+
+// 🎨 Custom Variables
+$primary-color: #ff6600;
+$font-stack: 'Fira Code', monospace;
+
+// 🧵 Global Styles
+body {
+  font-family: $font-stack;
+  background-color: #f9f9f9;
   color: #333;
+}
 
-  h1, h2, h3 {
-    color: #007acc;
-    border-bottom: 1px solid #eee;
-    padding-bottom: 0.3em;
-  }
+// 🧱 Layout Tweaks
+.main-content {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 2rem;
+}
 
-  a {
-    color: #e36209;
-    text-decoration: none;
-  }
+// 📝 Headings
+h1, h2, h3 {
+  color: $primary-color;
+  border-bottom: 1px solid lighten($primary-color, 20%);
+  padding-bottom: 0.3rem;
+}
 
-  a:hover {
-    text-decoration: underline;
-  }
+// 📎 Code Blocks
+pre, code {
+  background-color: #272822;
+  color: #f8f8f2;
+  font-family: $font-stack;
+  padding: 0.5rem;
+  border-radius: 4px;
 }
