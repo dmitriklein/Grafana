@@ -4,7 +4,7 @@ title: "Welcome"
 excerpt: "A blog about observability, cloud infrastructure, and time-series databases."
 ---
 <img src="assets/images/DK2025.JPG" alt="Welcome Banner" width="300" height="auto">
-**Blog of Dmitri K Klein**
+**Blog by Dmitri K Klein**
 
 *Observation is the key to understanding!*
 
