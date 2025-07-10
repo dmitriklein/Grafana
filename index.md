@@ -15,3 +15,5 @@ excerpt: "A blog about observability, cloud infrastructure, and time-series data
 - 🔍 Distributed tracing with OpenTelemetry
 - ☁️ AWS infrastructure and Kubernetes
 - 🧠 Time-series databases like InfluxDB and VictoriaMetrics
+
+  
