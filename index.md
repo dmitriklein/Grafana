@@ -8,7 +8,7 @@ excerpt: "A blog about observability, cloud infrastructure, and time-series data
 
 *Observation is the key to understanding!*
 
-**My R&D and corporate production experience with Grafana, 2025**
+**R&D on corporate production experience in Grafana, 2025**
 
 🧭 Also explore topics like:
 - 📊 Grafana, Prometheus, and Loki
