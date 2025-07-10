@@ -2,7 +2,7 @@ title: Grafana In Corporate Production Environment
 description: >-
   Corporate production experience with Grafana by Dmitri K Klein.
 email: dmitri.klein@y7mail.com
-url: "https://your-username.github.io" # Replace with your GitHub Pages URL
+url: "https://dmitriklein.github.io/Grafana" # Replace with your GitHub Pages URL
 baseurl: "/Grafana" # Use "" if it's a user/organization site
 
 # Theme and appearance
