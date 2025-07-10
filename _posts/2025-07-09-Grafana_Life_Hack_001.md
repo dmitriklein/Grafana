@@ -6,7 +6,7 @@ categories: observability tools
 tags: [grafana, prometheus, opentelemetry]
 excerpt: "A visually enhanced walkthrough of observability tooling."
 ---
-<img src="assets/images/MyObservabilityLogo3" alt="Welcome Banner" width="300" height="auto">
+<img src="https://github.com/dmitriklein/Grafana/blob/main/_posts/assets/images/MyObservabilityLogo3.png" alt="Welcome Banner" width="300" height="auto">
 
 ## 🎯 Overview
 
