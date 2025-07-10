@@ -1,5 +1,5 @@
 ---
-title: "Visualize Like a Pro: Getting Started with Grafana Dashboards"
+title: "Visualize Like a Grafana Pro: Infinity, custom, chained and business variables"
 date: 2025-07-10
 tags: [grafana, observability, monitoring, dashboards, time-series]
 layout: post
