@@ -54,7 +54,6 @@ exclude:
   - vendor
 # Custom Styles
 sass:
-  sass_dir: assets/css
   style: compressed
 
 # Optional: if not using a theme that auto-includes your CSS
