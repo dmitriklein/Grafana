@@ -6,7 +6,10 @@ url: "https://your-username.github.io" # Replace with your GitHub Pages URL
 baseurl: "/Grafana" # Use "" if it's a user/organization site
 
 # Theme and appearance
-remote_theme: jekyll/minima
+remote_theme: mmistakes/minimal-mistakes
+minimal_mistakes_skin: "aqua" # Options: default, dark, mint, sunrise, etc.
+locale: "en"
+lang: "en"
 
 # Author info
 author:
