@@ -1,14 +1,25 @@
 ---
 layout: post
-title: "My First Blog Post"
+title: "Mastering Observability with Style"
 date: 2025-07-10
-categories: observability
-tags: [grafana, prometheus]
-excerpt: "A quick intro to my GitHub blog and observability tools."
+categories: observability tools
+tags: [grafana, prometheus, opentelemetry]
+excerpt: "A visually enhanced walkthrough of observability tooling."
 ---
+<img src="https://github.com/dmitriklein/Grafana/blob/main/_posts/assets/images/MyObservabilityLogo3.png" alt="Welcome Banner" width="300" height="auto">
 
-Welcome to my blog! Today we’re diving into the world of observability with Grafana and Prometheus.
+## 🎯 Overview
 
-> “You can’t fix what you can’t see.”
+In this post, we explore how to set up a sleek observability stack using:
 
-Stay tuned for more posts on cloud-native monitoring and time-series databases.
+- ✅ **Prometheus** for metrics
+- 🔍 **Loki** for logs
+- 🧵 **OpenTelemetry** for distributed tracing
+
+## 💡 Dashboard Tips
+
+```yaml
+scrape_configs:
+  - job_name: 'node'
+    static_configs:
+      - targets: ['localhost:9100']
