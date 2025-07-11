@@ -1,5 +1,5 @@
 ---
-title: "Visualize Like a Grafana Pro: Infinity. Custom, chained and business variables."
+title: "Visualize Like a Grafana Pro: Infinity, custom, chained and business variables"
 date: 2025-07-10
 tags: [grafana, observability, monitoring, dashboards, time-series]
 layout: post
